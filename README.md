@@ -13,5 +13,7 @@ I do not have the best and friendly GUI, but I had implemented 7 design pattern 
 - Decorator Design Pattern.
 
 Game's UML: <br>
-![alt text](https://github.com/iabdulrahman91/ShipGame/blob/8c5507659fe7c04aa296a45e25b462b09e21fcf1/UML.jpg)
+![alt text](https://github.com/iabdulrahman91/ShipGame/blob/master/UML.jpg?raw=true)
+
+Screen shot of the game running: <br>
 ![alt text](https://github.com/iabdulrahman91/ShipGame/blob/master/game_SC.png?raw=true)
